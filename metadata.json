@@ -1,0 +1,6 @@
+{
+  "name": "ResumeBoost AI",
+  "description": "AI-Powered ATS Resume Analyzer & Career Optimizer",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
