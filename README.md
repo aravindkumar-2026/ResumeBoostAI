@@ -171,17 +171,6 @@ ResumeBoostAI
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots of:
-- Home Page
-- Resume Upload
-- ATS Dashboard
-- Job Match Result
-- AI Suggestions
-
----
-
 ## 🚀 Installation
 
 Clone the repository:
